@@ -1,6 +1,6 @@
 a = 1
-Anggi
-ayu
+Anggi = 1
+ayu = 3
 
 b =1 
 c = 2
