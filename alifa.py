@@ -15,3 +15,7 @@ print(b*c)
 anggi = 1
 alifa = 2
 ayu = 3
+
+alifa = 701240071
+anggi = 701240066
+zumaini = 701240065
